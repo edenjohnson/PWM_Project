@@ -1,3 +1,4 @@
+###############################################################################
 # extract_splices.py
 # Authors: Eden Johnson
 # Last updated: 5/14/19
@@ -7,6 +8,7 @@
 #               .rstrip() and .split().
 #               Program also uses variable assignment and extended splice
 #               operator.
+###############################################################################
 
 # input from EI_true.seq
 sequence_file = open("EI_true.seq", 'r')
