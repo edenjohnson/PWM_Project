@@ -1,3 +1,4 @@
+###############################################################################
 # create_PWM.py
 # Author: Eden Johnson
 # Last updated: 5/14/19
@@ -6,7 +7,8 @@
 # Program uses: Built-in Python function open(), len(), range(), str()
 #               built-in Python methods .readlines(), .log(), .write(),
 #               .close(), import of the math module, creation of a function,
-#               for loop, conditional statements, use of a dictionary.  
+#               for loop, conditional statements, use of a dictionary. 
+###############################################################################
 
 # import math module
 import math
