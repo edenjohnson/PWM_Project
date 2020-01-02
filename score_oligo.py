@@ -1,3 +1,4 @@
+###############################################################################
 # score_oligo.py
 # Author : Eden Johnson
 # Last Updated: 5/14/19
@@ -7,6 +8,7 @@
 #               built-in Python methods .read(), .split(), .write(), .close().
 #               Creation of a funciton, for loop, conditional statement.
 #               Use of dictionary. 
+###############################################################################
 
 # open file to read PWM from, create list of rows
 pwm_file = open("EI_nine_pwm.txt",'r')
